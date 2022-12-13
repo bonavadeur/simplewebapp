@@ -12,4 +12,5 @@ SimpleWebApp là ứng dụng web PHP tĩnh, đơn giản, dùng trong các bài
 ![alt](failed.png)
 
 ## Phiên bản
-v1.0 - 3/10/2022
+v1.0 - 03/10/2022
+v2.0 - 08/12/2022
